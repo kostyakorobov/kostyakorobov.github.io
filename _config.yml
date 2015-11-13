@@ -10,6 +10,7 @@ tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            3
 baseurl:             ""
+comments:			 true
 
 # Assets
 #
